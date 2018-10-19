@@ -1,3 +1,6 @@
+This is the previous version including cache functions.  
+This version is much faster than current master espcially for large libraries such as numpy, pandas, and so on.
+
 # deoplete-jedi
 
 
